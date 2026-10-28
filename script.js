@@ -22,7 +22,7 @@ const artists = [
         name: "Augusta Savage",
         years: "1892–1962",
         medium: "Sculpture",
-        description: "A sculptor and educator associated with the Harlem Renaissance."
+        description: "Known as a sculptor and educator associated with the Harlem Renaissance."
     },
     {
         name: "Jacob Lawrence",
